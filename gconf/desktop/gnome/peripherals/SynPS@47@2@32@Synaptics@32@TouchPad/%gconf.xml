@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="two_finger_horizontal_scrolling" mtime="1476379347" type="bool" value="true"/>
+	<entry name="two_finger_vertical_scrolling" mtime="1476379343" type="bool" value="true"/>
+	<entry name="device_type" mtime="1476387037" type="string">
+		<stringvalue>touchpad</stringvalue>
+	</entry>
+</gconf>

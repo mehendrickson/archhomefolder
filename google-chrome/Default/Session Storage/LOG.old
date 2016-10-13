@@ -1,0 +1,23 @@
+2016/10/13-16:19:43.353 715 Reusing MANIFEST /home/matt/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2016/10/13-16:19:43.353 715 Recovering log #240
+2016/10/13-16:19:43.454 715 Level-0 table #243: started
+2016/10/13-16:19:43.529 715 Level-0 table #243: 41639 bytes OK
+2016/10/13-16:19:43.573 715 Delete type=0 #240
+2016/10/13-16:19:43.588 802 Compacting 4@0 + 1@1 files
+2016/10/13-16:19:44.367 802 Generated table #245@0: 3427 keys, 2026538 bytes
+2016/10/13-16:19:44.367 802 Compacted 4@0 + 1@1 files => 2026538 bytes
+2016/10/13-16:19:44.599 802 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/10/13-16:19:44.599 802 Delete type=2 #243
+2016/10/13-16:19:44.599 802 Delete type=2 #239
+2016/10/13-16:19:44.599 802 Delete type=2 #241
+2016/10/13-16:19:44.599 802 Delete type=2 #235
+2016/10/13-16:19:44.599 802 Delete type=2 #237
+2016/10/13-16:20:10.946 802 Level-0 table #247: started
+2016/10/13-16:20:11.055 802 Level-0 table #247: 122971 bytes OK
+2016/10/13-16:20:11.111 802 Delete type=0 #244
+2016/10/13-16:21:46.147 802 Level-0 table #249: started
+2016/10/13-16:21:46.258 802 Level-0 table #249: 60648 bytes OK
+2016/10/13-16:21:46.313 802 Delete type=0 #246
+2016/10/13-16:22:46.151 802 Level-0 table #251: started
+2016/10/13-16:22:46.259 802 Level-0 table #251: 71000 bytes OK
+2016/10/13-16:22:46.315 802 Delete type=0 #248

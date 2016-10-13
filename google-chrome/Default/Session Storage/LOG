@@ -1,0 +1,39 @@
+2016/10/13-16:28:58.913 715 Reusing MANIFEST /home/matt/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2016/10/13-16:28:58.913 715 Recovering log #250
+2016/10/13-16:28:58.927 715 Reusing old log /home/matt/.config/google-chrome/Default/Session Storage/000250.log 
+2016/10/13-16:29:13.879 873 Level-0 table #254: started
+2016/10/13-16:29:13.991 873 Level-0 table #254: 29136 bytes OK
+2016/10/13-16:29:14.046 873 Delete type=0 #250
+2016/10/13-16:29:14.046 873 Compacting 4@0 + 1@1 files
+2016/10/13-16:29:14.234 873 Generated table #255@0: 3578 keys, 1288938 bytes
+2016/10/13-16:29:14.234 873 Compacted 4@0 + 1@1 files => 1288938 bytes
+2016/10/13-16:29:14.289 873 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/10/13-16:29:14.289 873 Delete type=2 #247
+2016/10/13-16:29:14.289 873 Delete type=2 #249
+2016/10/13-16:29:14.289 873 Delete type=2 #245
+2016/10/13-16:29:14.290 873 Delete type=2 #251
+2016/10/13-16:29:14.290 873 Delete type=2 #254
+2016/10/13-16:30:09.228 873 Level-0 table #257: started
+2016/10/13-16:30:09.310 873 Level-0 table #257: 72612 bytes OK
+2016/10/13-16:30:09.365 873 Delete type=0 #253
+2016/10/13-16:31:00.792 873 Level-0 table #259: started
+2016/10/13-16:31:00.923 873 Level-0 table #259: 28179 bytes OK
+2016/10/13-16:31:00.979 873 Delete type=0 #256
+2016/10/13-16:36:46.961 873 Level-0 table #261: started
+2016/10/13-16:36:47.083 873 Level-0 table #261: 32927 bytes OK
+2016/10/13-16:36:47.139 873 Delete type=0 #258
+2016/10/13-16:40:26.040 873 Level-0 table #263: started
+2016/10/13-16:40:26.203 873 Level-0 table #263: 138908 bytes OK
+2016/10/13-16:40:26.258 873 Delete type=0 #260
+2016/10/13-16:40:26.258 873 Compacting 4@0 + 1@1 files
+2016/10/13-16:40:26.346 873 Generated table #264@0: 3729 keys, 788554 bytes
+2016/10/13-16:40:26.347 873 Compacted 4@0 + 1@1 files => 788554 bytes
+2016/10/13-16:40:26.402 873 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/10/13-16:40:26.402 873 Delete type=2 #257
+2016/10/13-16:40:26.402 873 Delete type=2 #255
+2016/10/13-16:40:26.402 873 Delete type=2 #261
+2016/10/13-16:40:26.402 873 Delete type=2 #259
+2016/10/13-16:40:26.402 873 Delete type=2 #263
+2016/10/13-16:40:32.925 873 Level-0 table #266: started
+2016/10/13-16:40:33.025 873 Level-0 table #266: 111364 bytes OK
+2016/10/13-16:40:33.080 873 Delete type=0 #262
