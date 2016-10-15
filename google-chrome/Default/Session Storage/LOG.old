@@ -1,23 +1,60 @@
-2016/10/13-16:19:43.353 715 Reusing MANIFEST /home/matt/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2016/10/13-16:19:43.353 715 Recovering log #240
-2016/10/13-16:19:43.454 715 Level-0 table #243: started
-2016/10/13-16:19:43.529 715 Level-0 table #243: 41639 bytes OK
-2016/10/13-16:19:43.573 715 Delete type=0 #240
-2016/10/13-16:19:43.588 802 Compacting 4@0 + 1@1 files
-2016/10/13-16:19:44.367 802 Generated table #245@0: 3427 keys, 2026538 bytes
-2016/10/13-16:19:44.367 802 Compacted 4@0 + 1@1 files => 2026538 bytes
-2016/10/13-16:19:44.599 802 compacted to: files[ 0 1 1 0 0 0 0 ]
-2016/10/13-16:19:44.599 802 Delete type=2 #243
-2016/10/13-16:19:44.599 802 Delete type=2 #239
-2016/10/13-16:19:44.599 802 Delete type=2 #241
-2016/10/13-16:19:44.599 802 Delete type=2 #235
-2016/10/13-16:19:44.599 802 Delete type=2 #237
-2016/10/13-16:20:10.946 802 Level-0 table #247: started
-2016/10/13-16:20:11.055 802 Level-0 table #247: 122971 bytes OK
-2016/10/13-16:20:11.111 802 Delete type=0 #244
-2016/10/13-16:21:46.147 802 Level-0 table #249: started
-2016/10/13-16:21:46.258 802 Level-0 table #249: 60648 bytes OK
-2016/10/13-16:21:46.313 802 Delete type=0 #246
-2016/10/13-16:22:46.151 802 Level-0 table #251: started
-2016/10/13-16:22:46.259 802 Level-0 table #251: 71000 bytes OK
-2016/10/13-16:22:46.315 802 Delete type=0 #248
+2016/10/14-22:36:08.740 721 Reusing MANIFEST /home/matt/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2016/10/14-22:36:08.740 721 Recovering log #358
+2016/10/14-22:36:08.751 721 Reusing old log /home/matt/.config/google-chrome/Default/Session Storage/000358.log 
+2016/10/14-22:37:14.878 1007 Level-0 table #365: started
+2016/10/14-22:37:14.976 1007 Level-0 table #365: 92041 bytes OK
+2016/10/14-22:37:15.021 1007 Delete type=0 #358
+2016/10/14-22:38:05.952 1007 Level-0 table #367: started
+2016/10/14-22:38:06.002 1007 Level-0 table #367: 94637 bytes OK
+2016/10/14-22:38:06.046 1007 Delete type=0 #364
+2016/10/14-22:40:06.103 1007 Level-0 table #369: started
+2016/10/14-22:40:06.165 1007 Level-0 table #369: 63228 bytes OK
+2016/10/14-22:40:06.220 1007 Delete type=0 #366
+2016/10/14-22:43:04.499 1007 Level-0 table #371: started
+2016/10/14-22:43:04.609 1007 Level-0 table #371: 96571 bytes OK
+2016/10/14-22:43:04.696 1007 Delete type=0 #368
+2016/10/14-22:43:04.696 1007 Compacting 4@0 + 3@1 files
+2016/10/14-22:43:05.241 1007 Generated table #372@0: 1421 keys, 2105206 bytes
+2016/10/14-22:43:05.396 1007 Generated table #373@0: 860 keys, 2107921 bytes
+2016/10/14-22:43:05.485 1007 Generated table #374@0: 3822 keys, 533819 bytes
+2016/10/14-22:43:05.485 1007 Compacted 4@0 + 3@1 files => 4746946 bytes
+2016/10/14-22:43:05.607 1007 compacted to: files[ 0 3 1 0 0 0 0 ]
+2016/10/14-22:43:05.607 1007 Delete type=2 #367
+2016/10/14-22:43:05.607 1007 Delete type=2 #362
+2016/10/14-22:43:05.607 1007 Delete type=2 #361
+2016/10/14-22:43:05.607 1007 Delete type=2 #371
+2016/10/14-22:43:05.608 1007 Delete type=2 #360
+2016/10/14-22:43:05.608 1007 Delete type=2 #365
+2016/10/14-22:43:05.608 1007 Delete type=2 #369
+2016/10/14-22:44:32.342 1007 Level-0 table #376: started
+2016/10/14-22:44:32.397 1007 Level-0 table #376: 83723 bytes OK
+2016/10/14-22:44:32.442 1007 Delete type=0 #370
+2016/10/14-22:46:02.134 1007 Level-0 table #378: started
+2016/10/14-22:46:02.253 1007 Level-0 table #378: 60905 bytes OK
+2016/10/14-22:46:02.298 1007 Delete type=0 #375
+2016/10/14-22:56:06.279 1007 Level-0 table #380: started
+2016/10/14-22:56:06.401 1007 Level-0 table #380: 12774 bytes OK
+2016/10/14-22:56:06.457 1007 Delete type=0 #377
+2016/10/14-22:57:19.504 1007 Level-0 table #382: started
+2016/10/14-22:57:19.627 1007 Level-0 table #382: 60481 bytes OK
+2016/10/14-22:57:19.705 1007 Delete type=0 #379
+2016/10/14-22:57:19.705 1007 Compacting 4@0 + 3@1 files
+2016/10/14-22:57:19.839 1007 Generated table #383@0: 6212 keys, 1133708 bytes
+2016/10/14-22:57:19.839 1007 Compacted 4@0 + 3@1 files => 1133708 bytes
+2016/10/14-22:57:19.961 1007 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/10/14-22:57:19.962 1007 Delete type=2 #373
+2016/10/14-22:57:19.964 1007 Delete type=2 #376
+2016/10/14-22:57:19.965 1007 Delete type=2 #378
+2016/10/14-22:57:19.965 1007 Delete type=2 #380
+2016/10/14-22:57:19.965 1007 Delete type=2 #382
+2016/10/14-22:57:19.965 1007 Delete type=2 #374
+2016/10/14-22:57:19.965 1007 Delete type=2 #372
+2016/10/14-22:58:56.560 1007 Level-0 table #385: started
+2016/10/14-22:58:56.615 1007 Level-0 table #385: 69387 bytes OK
+2016/10/14-22:58:56.671 1007 Delete type=0 #381
+2016/10/14-23:03:03.740 1007 Level-0 table #387: started
+2016/10/14-23:03:03.808 1007 Level-0 table #387: 60578 bytes OK
+2016/10/14-23:03:03.863 1007 Delete type=0 #384
+2016/10/14-23:04:18.480 1007 Level-0 table #389: started
+2016/10/14-23:04:18.598 1007 Level-0 table #389: 65514 bytes OK
+2016/10/14-23:04:18.653 1007 Delete type=0 #386

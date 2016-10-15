@@ -1,39 +1,36 @@
-2016/10/13-16:28:58.913 715 Reusing MANIFEST /home/matt/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2016/10/13-16:28:58.913 715 Recovering log #250
-2016/10/13-16:28:58.927 715 Reusing old log /home/matt/.config/google-chrome/Default/Session Storage/000250.log 
-2016/10/13-16:29:13.879 873 Level-0 table #254: started
-2016/10/13-16:29:13.991 873 Level-0 table #254: 29136 bytes OK
-2016/10/13-16:29:14.046 873 Delete type=0 #250
-2016/10/13-16:29:14.046 873 Compacting 4@0 + 1@1 files
-2016/10/13-16:29:14.234 873 Generated table #255@0: 3578 keys, 1288938 bytes
-2016/10/13-16:29:14.234 873 Compacted 4@0 + 1@1 files => 1288938 bytes
-2016/10/13-16:29:14.289 873 compacted to: files[ 0 1 1 0 0 0 0 ]
-2016/10/13-16:29:14.289 873 Delete type=2 #247
-2016/10/13-16:29:14.289 873 Delete type=2 #249
-2016/10/13-16:29:14.289 873 Delete type=2 #245
-2016/10/13-16:29:14.290 873 Delete type=2 #251
-2016/10/13-16:29:14.290 873 Delete type=2 #254
-2016/10/13-16:30:09.228 873 Level-0 table #257: started
-2016/10/13-16:30:09.310 873 Level-0 table #257: 72612 bytes OK
-2016/10/13-16:30:09.365 873 Delete type=0 #253
-2016/10/13-16:31:00.792 873 Level-0 table #259: started
-2016/10/13-16:31:00.923 873 Level-0 table #259: 28179 bytes OK
-2016/10/13-16:31:00.979 873 Delete type=0 #256
-2016/10/13-16:36:46.961 873 Level-0 table #261: started
-2016/10/13-16:36:47.083 873 Level-0 table #261: 32927 bytes OK
-2016/10/13-16:36:47.139 873 Delete type=0 #258
-2016/10/13-16:40:26.040 873 Level-0 table #263: started
-2016/10/13-16:40:26.203 873 Level-0 table #263: 138908 bytes OK
-2016/10/13-16:40:26.258 873 Delete type=0 #260
-2016/10/13-16:40:26.258 873 Compacting 4@0 + 1@1 files
-2016/10/13-16:40:26.346 873 Generated table #264@0: 3729 keys, 788554 bytes
-2016/10/13-16:40:26.347 873 Compacted 4@0 + 1@1 files => 788554 bytes
-2016/10/13-16:40:26.402 873 compacted to: files[ 0 1 1 0 0 0 0 ]
-2016/10/13-16:40:26.402 873 Delete type=2 #257
-2016/10/13-16:40:26.402 873 Delete type=2 #255
-2016/10/13-16:40:26.402 873 Delete type=2 #261
-2016/10/13-16:40:26.402 873 Delete type=2 #259
-2016/10/13-16:40:26.402 873 Delete type=2 #263
-2016/10/13-16:40:32.925 873 Level-0 table #266: started
-2016/10/13-16:40:33.025 873 Level-0 table #266: 111364 bytes OK
-2016/10/13-16:40:33.080 873 Delete type=0 #262
+2016/10/14-23:18:57.091 844 Reusing MANIFEST /home/matt/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2016/10/14-23:18:57.091 844 Recovering log #388
+2016/10/14-23:18:57.102 844 Reusing old log /home/matt/.config/google-chrome/Default/Session Storage/000388.log 
+2016/10/14-23:23:08.586 1268 Level-0 table #392: started
+2016/10/14-23:23:08.747 1268 Level-0 table #392: 101930 bytes OK
+2016/10/14-23:23:08.802 1268 Delete type=0 #388
+2016/10/14-23:23:08.802 1268 Compacting 4@0 + 1@1 files
+2016/10/14-23:23:09.001 1268 Generated table #393@0: 6355 keys, 1427140 bytes
+2016/10/14-23:23:09.001 1268 Compacted 4@0 + 1@1 files => 1427140 bytes
+2016/10/14-23:23:09.056 1268 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/10/14-23:23:09.056 1268 Delete type=2 #392
+2016/10/14-23:23:09.056 1268 Delete type=2 #383
+2016/10/14-23:23:09.056 1268 Delete type=2 #385
+2016/10/14-23:23:09.072 1268 Delete type=2 #389
+2016/10/14-23:23:09.072 1268 Delete type=2 #387
+2016/10/14-23:25:22.033 1268 Level-0 table #395: started
+2016/10/14-23:25:22.088 1268 Level-0 table #395: 59991 bytes OK
+2016/10/14-23:25:22.133 1268 Delete type=0 #391
+2016/10/14-23:28:33.234 1268 Level-0 table #397: started
+2016/10/14-23:28:33.376 1268 Level-0 table #397: 74406 bytes OK
+2016/10/14-23:28:33.454 1268 Delete type=0 #394
+2016/10/14-23:28:38.944 1268 Level-0 table #399: started
+2016/10/14-23:28:39.028 1268 Level-0 table #399: 27733 bytes OK
+2016/10/14-23:28:39.129 1268 Delete type=0 #396
+2016/10/14-23:29:29.099 1268 Level-0 table #401: started
+2016/10/14-23:29:29.154 1268 Level-0 table #401: 72866 bytes OK
+2016/10/14-23:29:29.210 1268 Delete type=0 #398
+2016/10/14-23:29:29.210 1268 Compacting 4@0 + 1@1 files
+2016/10/14-23:29:29.331 1268 Generated table #402@0: 6478 keys, 1659430 bytes
+2016/10/14-23:29:29.331 1268 Compacted 4@0 + 1@1 files => 1659430 bytes
+2016/10/14-23:29:29.387 1268 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/10/14-23:29:29.387 1268 Delete type=2 #397
+2016/10/14-23:29:29.387 1268 Delete type=2 #401
+2016/10/14-23:29:29.387 1268 Delete type=2 #395
+2016/10/14-23:29:29.387 1268 Delete type=2 #399
+2016/10/14-23:29:29.387 1268 Delete type=2 #393

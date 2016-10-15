@@ -1,0 +1,36 @@
+{
+   "checksum": "968898e29eeb1a80f3ee9b466ce9223e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13120846525278269",
+            "id": "6",
+            "name": "DotShare.it",
+            "type": "url",
+            "url": "http://dotshare.it/dots/1136/"
+         } ],
+         "date_added": "13120844533060420",
+         "date_modified": "13120846525278269",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13120844533060426",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13120844533060428",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
